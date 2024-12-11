@@ -42,17 +42,7 @@ name = "To Do"
 [[processes]]
 id = "process2"
 name = "In Progress"
-
-  [[processes.tasks]]
-  id = "b2f3vs0mlzzhma3hhfvz9nj2"
-  title = "4b. Main Usage with Python in VS Code (Example 2)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
+tasks = [ ]
 
 [[processes]]
 id = "process3"
@@ -94,6 +84,17 @@ name = "Done"
   [[processes.tasks]]
   id = "bgrkieq7f2ycpc4o3oqm7qzy"
   title = "3. Main Purposes and Characteristics of Apache Cassandra"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "b2f3vs0mlzzhma3hhfvz9nj2"
+  title = "4b. Main Usage with Python in VS Code (Example 2)"
   description = ""
   tag = "backlog"
   linkFiles = [ ]
