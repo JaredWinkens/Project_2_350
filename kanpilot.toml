@@ -7,61 +7,6 @@ id = "process1"
 name = "To Do"
 
   [[processes.tasks]]
-  id = "task1"
-  title = "1. Installation of Apache Cassandra on WSL"
-  description = "<p></p>"
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "o4yj9ndi6sjx3ibim2aovo18"
-  title = "2. Requirements for Installation"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "bgrkieq7f2ycpc4o3oqm7qzy"
-  title = "3. Main Purposes and Characteristics of Apache Cassandra"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "cc32pnz5p851pj3jkp3tbei2"
-  title = "4a. Main Usage with Python in VS Code (Example 1)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "b2f3vs0mlzzhma3hhfvz9nj2"
-  title = "4b. Main Usage with Python in VS Code (Example 2)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
   id = "mzsxy0b13dg1fzwcvxmtx51h"
   title = "4c. Main Usage with Python in VS Code (Example 3)"
   description = ""
@@ -102,4 +47,58 @@ tasks = [ ]
 [[processes]]
 id = "process3"
 name = "Done"
-tasks = [ ]
+
+  [[processes.tasks]]
+  id = "task1"
+  title = "1. Installation of Apache Cassandra on WSL"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "o4yj9ndi6sjx3ibim2aovo18"
+  title = "2. Requirements for Installation"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "cc32pnz5p851pj3jkp3tbei2"
+  title = "4a. Main Usage with Python in VS Code (Example 1)"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "bgrkieq7f2ycpc4o3oqm7qzy"
+  title = "3. Main Purposes and Characteristics of Apache Cassandra"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "b2f3vs0mlzzhma3hhfvz9nj2"
+  title = "4b. Main Usage with Python in VS Code (Example 2)"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
